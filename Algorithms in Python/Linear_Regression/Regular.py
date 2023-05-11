@@ -1,3 +1,4 @@
+#REGULAR LINEAR REGRESSION
 import numpy as np
 class LinearRegression:
     def __init__(self,lr=.01,iterations=10000,bias=0):
